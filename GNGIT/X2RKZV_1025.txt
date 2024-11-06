@@ -1,0 +1,10 @@
+1. git clone: Egy távoli repository letöltése a helyi gépre.
+2. git inti: Egy új Git repository létrehozása.
+3. git add [fájlnév]: Fájl hozzáadása a következőcommit-hoz.
+4. git commit-m "[üzenet]": Változások commitolása egy üzenet megadásával.
+5. git push: Változások feltöltése a távoli repository-ba.
+6. git pull: Változások letöltése és egyesítése a helyi repository-val.
+7. git status: Megmutatja a változtatások állapotát.
+8. git log: A commit üzenetek listájának megtekintése.
+9. git branch: Jelenlegi ágak listázása és új ágak létrehozása.
+10. git merge [ág]: Egy másik ág egyesítése a jelenlegi ággal.
